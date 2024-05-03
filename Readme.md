@@ -1,1 +1,1 @@
-"# learning_git" 
+This is me using GIT, Understading it.
